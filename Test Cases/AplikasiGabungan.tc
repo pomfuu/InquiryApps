@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AplikasiGabungan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c3a49e8-6612-4ab0-9438-eac47ef0ac65</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>1a9a01a4-5dbc-4956-a9a2-7e102fdea185</id>
+      <iterationEntity>
+         <iterationType>SPECIFIC</iterationType>
+         <value>4</value>
+      </iterationEntity>
+      <testDataId>Data Files/InquiryApps</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>1a9a01a4-5dbc-4956-a9a2-7e102fdea185</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>MID</value>
+      <variableId>270fb930-1c9f-4862-92ac-5bf5d3fbf46f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>1a9a01a4-5dbc-4956-a9a2-7e102fdea185</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Data</value>
+      <variableId>c887d9a0-b848-408f-bfdb-16bc242e3759</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>270fb930-1c9f-4862-92ac-5bf5d3fbf46f</id>
+      <masked>false</masked>
+      <name>MID</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c887d9a0-b848-408f-bfdb-16bc242e3759</id>
+      <masked>false</masked>
+      <name>Data</name>
+   </variable>
+</TestCaseEntity>
